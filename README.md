@@ -11,7 +11,7 @@ ___
 ### 📫 How to reach me :
 <p>
 <a href="https://github.com/djmakwana797/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height ="25"></a>
-<a href="https://www.linkedin.com/in/divya-makwana-5247321a9"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height ="25"></a> 
+<a href="https://www.linkedin.com/in/divya-makwana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height ="25"></a> 
 <a href="https://www.instagram.com/_divya_797/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height ="25"></a>
 </p>
 
