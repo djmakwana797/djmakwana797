@@ -1,11 +1,11 @@
 ## Hi, I'm Divya Makwana 👋👩‍💻
 
-- 🌱 I’m currently learning Android Application Development and Software development with C#.
+- 🌱 I’m currently learning Android Application Development and Website Development.
 - 👯 I’m looking to collaborate on Android Projects.
 - 🤔 I’m looking for help with UI design for Mobile Applications.
 - 💬 Ask me about Website Designing, Android App Development, .Net Framework or related stuff.
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I spend almost 3 hours listening to music and Watching some technology related YouTube videos everyday.
+- ⚡ Fun fact: I spend almost 2 hours listening to music and Watching some technology related stuffs on YouTube everyday.
 
 ___
 ### 📫 How to reach me :
